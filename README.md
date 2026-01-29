@@ -124,6 +124,10 @@ npx claude-code-templates@latest --plugins
 
 **[📚 docs.aitmpl.com](https://docs.aitmpl.com/)** - Complete guides, examples, and API reference for all components and tools.
 
+## 🔄 Using with Other IDEs
+
+**[UPDATE.md](UPDATE.md)** - Guide for adapting Claude Code Templates to **Zed IDE** and **VS Code (GitHub Copilot)**. Learn how to convert agents, commands, and settings for use in other AI-powered development environments.
+
 ## Contributing
 
 We welcome contributions! **[Browse existing templates](https://aitmpl.com)** to see what's available, then check our [contributing guidelines](CONTRIBUTING.md) to add your own agents, commands, MCPs, settings, or hooks.
